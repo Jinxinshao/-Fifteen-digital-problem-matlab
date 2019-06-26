@@ -1,0 +1,1 @@
+ [ flag_zhaodao,zuizhong,guzhi_idex,zhongjian ] = kuozhanpanduan( S );
